@@ -3,7 +3,7 @@
 
   function app() {
     return {
-       hi: function() {
+       hello: function() {
          return 'hi';
        }
     };
